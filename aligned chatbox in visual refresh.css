@@ -8,7 +8,7 @@ display: none;
     margin: 0px;
     border-radius: 0px;
     background-color: var(--bg-base-tertiary);
-    padding: 7.9px;
+    padding: 7.7px;
     > div > div:not(.typingDots_d7ebeb), > div > div > div {
             background-color: var(--bg-base-tertiary);
     }
