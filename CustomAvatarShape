@@ -9,7 +9,7 @@
 
 :root{ /*Change these values from 0% (square) to 50% (circle) */
     --radius: 0%;
-    --radius-large: 20%;
+    --radius-large: 50%;
 }
 
  /* User avatar (sidebars) */ /* :not() selector is to keep status masks */
